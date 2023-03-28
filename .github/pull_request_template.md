@@ -1,10 +1,24 @@
-### Description
-<!-- Describe your changes. -->
+## 内容
 
+<!--
+プルリクエストの内容説明を端的に記載してください。
+-->
 
+## 関連 Issue
 
-### Motivation and Context
-<!-- - Why is this change required? What problem does it solve?
-- If it fixes an open issue, please link to the issue here. -->
+<!--
+関連するIssue番号を記載してください。
+番号の前に"close"を書くと自動的にIssueが閉じられます。
 
+（例）
+ref #0
+close #0
+-->
 
+## スクリーンショット・動画など
+
+<!--
+UIを変更した際は、変更がわかるような動画・スクリーンショットがあると助かります。
+-->
+
+## その他
